@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "Mongo_crud",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//do async stuff here or use JS promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ]
+  },
+  "id": "Mongo_crud_JSObject2",
+  "deleted": false,
+  "gitSyncId": "61ee3364a618840f00ba0ce0_61f7e92e674ca2114cf5284c"
+}

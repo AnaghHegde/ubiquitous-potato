@@ -1,0 +1,41 @@
+{
+  "fileFormatVersion": 1,
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 1,
+  "publishedDefaultPageName": "Assets-test.appsmith.com",
+  "unpublishedDefaultPageName": "Assets-test.appsmith.com",
+  "editModeTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": []
+  },
+  "publishedTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": []
+  },
+  "publishedLayoutmongoEscapedWidgets": {
+    "Mongo": [
+      "Table1"
+    ],
+    "Mongo_crud": [
+      "data_table"
+    ],
+    "MongoRaw": [
+      "Table1"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Mongo": [
+      "Table1"
+    ],
+    "Mongo_crud": [
+      "data_table"
+    ],
+    "MongoRaw": [
+      "Table1"
+    ]
+  }
+}
