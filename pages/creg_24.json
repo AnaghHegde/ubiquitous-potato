@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 822,
+          "rightColumn": 1936,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -28,6 +28,9 @@
           "children": []
         },
         "layoutOnLoadActions": [],
+        "widgetNames": [
+          "MainContainer"
+        ],
         "validOnPageLoadActions": true,
         "id": "creg_24",
         "deleted": false,

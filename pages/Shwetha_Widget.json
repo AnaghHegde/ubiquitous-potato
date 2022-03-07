@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 912,
+          "rightColumn": 1936,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 50,
+          "version": 51,
           "minHeight": 640,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -56,6 +56,10 @@
           ]
         },
         "layoutOnLoadActions": [],
+        "widgetNames": [
+          "Button1",
+          "MainContainer"
+        ],
         "validOnPageLoadActions": true,
         "id": "Shwetha_Widget",
         "deleted": false,

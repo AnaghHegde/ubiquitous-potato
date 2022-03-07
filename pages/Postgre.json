@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 816,
+          "rightColumn": 1936,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -970,6 +970,26 @@
               "timeoutInMillisecond": 10000
             }
           ]
+        ],
+        "widgetNames": [
+          "Audio1",
+          "AudioRecorder1",
+          "Button1",
+          "ButtonGroup1",
+          "Camera1",
+          "Canvas1",
+          "Chart1",
+          "Chart2",
+          "Checkbox1",
+          "CheckboxGroup1",
+          "CircularProgress1",
+          "Container1",
+          "CurrencyInput1",
+          "DatePicker1",
+          "MainContainer",
+          "Select1",
+          "Table1",
+          "Text1"
         ],
         "validOnPageLoadActions": true,
         "id": "Postgre",
